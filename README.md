@@ -98,7 +98,7 @@ python expense_tracker.py
 ![Line Chart Example](images/line.png)
 
 **Bar Chart – Category Comparison**
-![Bar Chart Example](images/bar graph.png)
+![Bar Chart Example](images/bargraph.png)
 
 ---
 
