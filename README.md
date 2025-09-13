@@ -92,7 +92,8 @@ python expense_tracker.py
 *(Generated from your expense data)*
 
 **Pie Chart – Spending by Category**
-![Pie Chart Example](https://1drv.ms/i/c/e8d325ad0ad64386/EUJtzxcmwRNPtyav4BI4SOoBdfX_nOvtdWqGHNC92i02RA?e=fKXxO7)
+![Pie Chart Example](<img width="1920" height="1013" alt="Screenshot (46)" src="https://github.com/user-attachments/assets/541dcf17-cf32-43c5-a8cc-d1155f049a95" />
+)
 
 **Line Chart – Spending Over Time**
 ![Line Chart Example](https://1drv.ms/i/c/e8d325ad0ad64386/EUEg_r-dM2xJigb30tZtgSMBw8x0yY33PKZOZyf_sHinQQ?e=tijfm1)
