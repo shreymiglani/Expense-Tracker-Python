@@ -87,20 +87,7 @@ python expense_tracker.py
 
 ---
 
-## 📊 Sample Visualizations
 
-*(Generated from your expense data)*
-
-**Pie Chart – Spending by Category**
-![Pie Chart Example](images/chart.png)
-
-**Line Chart – Spending Over Time**
-![Line Chart Example](images/line.png)
-
-**Bar Chart – Category Comparison**
-![Bar Chart Example](images/bargraph.png)
-
----
 
 ## 🚀 Future Enhancements
 
